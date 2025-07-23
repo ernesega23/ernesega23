@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ernesega</h1>
-<h3 align="center">frontend developer from Indonesia</h3>
+<h3 align="center">UI/UX designer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernesega23&label=Profile%20views&color=0e75b6&style=flat" alt="ernesega23" /> </p>
 
